@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Ping.js",
+        "url": "https://raw.githubusercontent.com/Rudraraj3/Ethix-MD/refs/heads/main/src/plugin/alive.js"
+    },
+    {
+        "name": "Report.js",
+        "url": "https://raw.githubusercontent.com/Rudraraj3/Ethix-MD/refs/heads/main/src/plugin/report.js"
+    }
+]
